@@ -1,0 +1,635 @@
+target,sector,organisation_size,revenue,ransom_cost,ransom_paid,year,month,location,ransomware
+cryptolocker,misc,large,1000000.0,27000000.0,unknown,2013,sep,worldwide,cryptolocker
+cryptowall,misc,medium,1000000.0,18000000.0,unknown,2014,jan,worldwide,cryptowall
+apple_devices,misc,small,1000000.0,5000000.0,unknown,2014,may,australia,not_revealed
+new_hampshire_pd,government,small,1000000.0,3000.0,unknown,2014,jun,usa,cryptowall
+teslacrypt,misc,small,1000000.0,76520.0,unknown,2015,mar,worldwide,teslacrypt
+teslacrypt_2,misc,small,1000000.0,5000000.0,unknown,2015,may,australia,not_revealed
+plex,media & sport,small,14000000.0,2500.0,refused,2015,jul,usa,cryptowall
+multiple_law_firms,legal,small,1000000.0,,unknown,2015,mar,multiple_countries,cryptowall
+greece_banks,finance,small,1000000.0,,unknown,2015,nov,greece,armada_collective
+police_departments_,government,small,1000000.0,5000000.0,unknown,2016,apr,usa,not_revealed
+lukas_klinikum_arnsberg_hospitals,healthcare,medium,120000000.0,,refused,2016,feb,germany,not_revealed
+hpmc,healthcare,medium,289000000.0,17000.0,ransom paid,2016,feb,usa,not_revealed
+ottawa_hospital,healthcare,medium,966000000.0,,unknown,2016,mar,canada,not_revealed
+medstar_health,healthcare,medium,,19000.0,unknown,2016,mar,usa,not_revealed
+university_of_calgary,academic,medium,201000000.0,15779.999999999998,ransom paid,2016,jun,canada,not_revealed
+carleton_university,academic,medium,665000000.0,39000.0,unknown,2016,nov,canada,not_revealed
+san_francisco_mta,transport,medium,,74000.0,unknown,2016,nov,usa,hddcryptor
+madison_county,government,small,1000000.0,21000.0,ransom paid,2016,dec,usa,not_revealed
+badrabbit,misc,large,1000000.0,,unknown,2017,oct,ukraine,badrabbit
+petya_notpetya,misc,large,1000000.0,5000000.0,unknown,2017,jun,worldwide,notpetya_petya
+maersk,transport,large,,300000000.0,unknown,2017,jun,denmark,notpetya
+wannacry,misc,large,1000000.0,69000000.0,unknown,2017,may,worldwide,wannacry
+hancock_health,healthcare,medium,122000000.0,55000.0,ransom paid,2018,jan,usa,samsam
+city_of_atlanta,government,small,1000000.0,51000.0,refused,2018,mar,usa,samsam
+cosco,transport,medium,,,unknown,2018,jul,usa,not_revealed
+port_of_san_diego,government,medium,163000000.0,30000000.0,unknown,2018,sep,usa,samsam
+owsa,government,small,29000000.0,,refused,2018,oct,usa,ryuk
+jackson_county,government,small,1000000.0,400000.0,ransom paid,2019,mar,usa,ryuk
+city_of_lodi,government,small,1000000.0,400000.0,unknown,2019,apr,usa,not_revealed
+la_porte_county,government,small,1000000.0,130000.0,ransom paid,2019,jul,usa,ryuk
+22_texan_towns,government,small,1000000.0,2500000.0,refused,2019,sep,usa,not_revealed
+dch_health_system,healthcare,medium,545000000.0,500000.0,unknown,2019,nov,usa,ryuk
+pitney_bowes,transport,medium,,,unknown,2019,oct,usa,maze
+nva,government,medium,,,unknown,2019,oct,usa,ryuk
+city_of_johannesburg,government,small,1000000.0,30493.0,refused,2019,nov,usa,shadow_kill_hackers
+government_of_nunavut,government,small,1000000.0,5000000.0,unknown,2019,nov,canada,not_revealed
+everis_cadena_sar,tech,medium,,836000.0,unknown,2019,nov,spain,not_revealed
+rouen_hospital,healthcare,medium,,,unknown,2019,nov,france,not_revealed
+state_of_louisiana,government,small,1000000.0,,refused,2019,nov,usa,ryuk
+prosegur,logistics,medium,,,unknown,2019,nov,spain,ryuk
+city_of_baltimore,government,small,1000000.0,76280.0,refused,2019,may,usa,robbinhood
+riviera_beach_lake_city,government,small,1000000.0,1100000.0,ransom paid,2019,jun,usa,trickbot_ryuk
+virtual_care_provider_inc,healthcare,small,29000000.0,14000000.0,unknown,2019,nov,usa,ryuk
+maastricht_university,academic,medium,241000000.0,220000.0,ransom paid,2019,dec,netherlands,ta505
+pemex,energy,large,,4900000.0,unknown,2019,nov,mexico,doppelpaymer
+michigan_state_university,academic,medium,,,unknown,2020,may,usa,netwalker
+columbia_college,academic,medium,102000000.0,,unknown,2020,jun,usa,netwalker
+brookfield_residential,logistics,medium,,,refused,2020,aug,usa,darkside
+pti,government,small,24000000.0,,unknown,2020,oct,india,lockbit
+r1_rcm_inc,finance,medium,,,unknown,2020,aug,usa,defray
+orange,telecoms,large,,,unknown,2020,jul,france,nefilim
+honda,automotive,large,,,unknown,2020,jun,japan,erkan
+scj,legal,small,1000000.0,,unknown,2020,nov,brazil,ransomexx
+ina_group,energy,medium,,,unknown,2020,feb,croatia,clop
+randstad,logistics,medium,,,unknown,2020,dec,multiple_countries,egregor
+us_fertility_,healthcare,small,1000000.0,,unknown,2020,nov,usa,not_revealed
+uhs,healthcare,medium,,67000000.0,unknown,2020,oct,usa,ryuk
+barnes_noble,retail,medium,,,unknown,2020,oct,usa,egregor
+blackbaud,tech,medium,913000000.0,,ransom paid,2020,jul,usa,not_revealed
+habana_labs,tech,small,23000000.0,,unknown,2020,dec,israel,pay2key
+gedia_automotive_group,automotive,medium,237000000.0,,refused,2020,jan,germany,revil
+talman,tech,small,10000000.0,,unknown,2020,feb,australia,not_revealed
+whirlpool,tech,medium,,,unknown,2020,dec,usa,nefilim
+symrise,food & beverage,medium,,,unknown,2020,dec,germany,clop
+haberdashers_monmouth_schools,academic,small,3000000.0,1400000.0,refused,2020,dec,united_kingdom,not_revealed
+embraer,tech,medium,746000000.0,,unknown,2020,dec,brazil,ransomexx
+k12,academic,medium,509000000.0,,ransom paid,2020,dec,usa,ryuk
+endemol_shine,media & sport,small,69000000.0,,unknown,2020,nov,france,doppelpaymer
+delaware_county,government,small,1000000.0,500000.0,ransom paid,2020,nov,usa,doppelpaymer
+manchester_united_,media & sport,medium,675000000.0,,unknown,2020,nov,united_kingdom,not_revealed
+eland,retail,small,10000000.0,,unknown,2020,nov,south_korea,not_revealed
+managedcom,tech,small,5000000.0,500000.0,unknown,2020,nov,usa,revil
+cencosud,retail,medium,,,unknown,2020,nov,chile,egregor
+miltenyi_biotec,healthcare,medium,877000000.0,,unknown,2020,nov,germany,mountlocker
+compal,tech,large,,,unknown,2020,nov,taiwan,doppelpaymer
+geo_group,government,medium,,,unknown,2020,nov,usa,not_revealed
+campari_group,food & beverage,medium,,15000000.0,unknown,2020,nov,italy,ragnar_locker
+capcom,gaming,large,,11000000.0,unknown,2020,nov,japan,ragnar_locker
+mattel,retail,medium,,,unknown,2020,nov,usa,not_revealed
+gpi,media & sport,small,87000000.0,,unknown,2020,oct,usa,revil
+drreddys_laboratories,healthcare,medium,,,refused,2020,oct,india,not_revealed
+steelcase,logistics,medium,,,unknown,2020,oct,usa,ryuk
+boyne_resorts,media & sport,medium,916000000.0,,unknown,2020,oct,canada,wastedlocker
+vastaamo,healthcare,small,10000000.0,490000.0,unknown,2020,oct,finland,not_revealed
+stm,transport,small,1000000.0,,unknown,2020,oct,canada,ransomexx
+haldirams,retail,medium,546000000.0,750000.0,unknown,2020,oct,india,not_revealed
+crytek,gaming,medium,116000000.0,,unknown,2020,oct,germany,egregor
+yazoo_county_school_district,academic,small,10000000.0,300000.0,ransom paid,2020,oct,usa,not_revealed
+ardonagh_group,finance,medium,,94000000.0,unknown,2020,oct,united_kingdom,not_revealed
+ert,healthcare,medium,612000000.0,,unknown,2020,oct,usa,not_revealed
+tyler_technologies,tech,medium,,4000000.0,ransom paid,2020,sep,usa,ransomexx
+ipg_photonics,government,medium,,,unknown,2020,sep,usa,ransomexx
+anglicare,healthcare,small,58000000.0,,refused,2020,sep,australia,not_revealed
+dusseldorf_university_hospital,healthcare,small,1000000.0,,unknown,2020,sep,germany,not_revealed
+artech_information_systems,logistics,medium,810000000.0,,unknown,2020,sep,usa,revil
+development_bank_of_seychelles,finance,small,2000000.0,,unknown,2020,sep,seychelles,not_revealed
+softserve,tech,medium,,,unknown,2020,sep,ukraine,ransomexx
+equinix,tech,medium,,,unknown,2020,sep,usa,not_revealed
+newcastle_university,academic,medium,742000000.0,,unknown,2020,sep,united_kingdom,doppelpaymer
+banco_estado,finance,medium,,,ransom paid,2020,sep,chile,revil
+cyligant,tech,small,39000000.0,,ransom paid,2020,sep,usa,not_revealed
+ma_labs,tech,medium,,,unknown,2020,aug,usa,revil
+sk_hynix,tech,large,,,unknown,2020,aug,south_korea,maze
+carnival,transport,medium,,,unknown,2020,aug,usa,not_revealed
+canon,tech,large,,,unknown,2020,aug,usa,maze
+boyce_technologies,healthcare,small,25000000.0,,unknown,2020,aug,usa,doppelpaymer
+muskingum_valley_health_center,healthcare,small,1000000.0,,unknown,2020,aug,usa,not_revealed
+regis,healthcare,medium,526000000.0,,unknown,2020,aug,australia,maze
+cwt,logistics,medium,,4500000.0,ransom paid,2020,aug,usa,ragnar_locker
+konica_minolta,tech,medium,,,unknown,2020,aug,japan,ransomexx
+the_dussmann_group,logistics,medium,,,unknown,2020,jul,germany,nefilim
+garmin,tech,medium,,10000000.0,unknown,2020,jul,usa,evilcorp
+collabera,tech,medium,,,unknown,2020,jul,usa,maze
+cooke_county,government,small,1000000.0,,unknown,2020,jul,usa,revil
+st_engineering_aerospace,tech,medium,,,unknown,2020,jun,usa,not_revealed
+city_of_florence,government,small,1000000.0,291000.0,ransom paid,2020,jun,usa,doppelpaymer
+mitsubishi,tech,large,,,unknown,2020,jun,japan,doppelpaymer
+xerox,tech,medium,,,unknown,2020,jun,usa,maze
+lg_electronics,tech,large,,,unknown,2020,jun,south_korea,maze
+enel,energy,large,,14000000.0,unknown,2020,jun,multiple_countries,netwalker
+fisher_and_paykel_appliances,healthcare,medium,,,unknown,2020,jun,australia,nefilim
+vard,transport,medium,,,unknown,2020,jun,norway,not_revealed
+westech_international,military,small,35000000.0,,unknown,2020,jun,usa,maze
+lion,food & beverage,medium,,,unknown,2020,jun,australia,not_revealed
+conduent,logistics,medium,,,unknown,2020,may,usa,maze
+nafo,government,small,1000000.0,,unknown,2020,may,canada,not_revealed
+stellar,finance,small,28000000.0,,unknown,2020,may,australia,netwalker
+magellan_health,healthcare,medium,,,unknown,2020,may,usa,maze
+elexon,tech,small,64000000.0,,unknown,2020,may,united_kingdom,not_revealed
+stadler,transport,medium,,,unknown,2020,may,switzerland,not_revealed
+ruhr_university_bochum,academic,medium,770000000.0,,unknown,2020,may,germany,not_revealed
+fresenius_medical_care,healthcare,large,,,unknown,2020,may,germany,snake
+toll_group,logistics,medium,,,unknown,2020,apr,australia,netwalker
+execupharm,healthcare,medium,314000000.0,,refused,2020,apr,usa,clop
+city_of_torrance,government,small,1000000.0,690000.0,unknown,2020,apr,usa,doppelpaymer
+lti_power_systems,energy,small,3000000.0,,unknown,2020,mar,usa,not_revealed
+kimchuk,tech,small,25000000.0,,unknown,2020,mar,usa,doppelpaymer
+finastra,finance,medium,,,refused,2020,mar,russia,not_revealed
+evraz,industrial,medium,,,unknown,2020,mar,united_kingdom,ryuk
+pei_government,government,small,1000000.0,900000.0,unknown,2020,mar,canada,maze
+visser_precision,tech,small,6000000.0,,refused,2020,mar,usa,doppelpaymer
+epiq_global,legal,medium,935000000.0,,unknown,2020,mar,usa,ryuk
+ewa,military,small,75000000.0,,unknown,2020,jan,usa,ryuk
+ny_airport_systems,government,small,1000000.0,,ransom paid,2020,jan,usa,revil
+richmond_community_schools,academic,small,58000000.0,10000.0,refused,2020,jan,usa,not_revealed
+city_of_lafayette,government,small,1000000.0,45000.0,ransom paid,2020,aug,usa,not_revealed
+university_of_utah,academic,medium,,457000.0,ransom paid,2020,aug,usa,not_revealed
+town_of_colonie,government,small,1000000.0,400000.0,refused,2020,jan,usa,not_revealed
+temple_har_shalom,misc,small,1000000.0,500000.0,unknown,2020,jan,usa,revil
+cpi,energy,medium,500000000.0,500000.0,ransom paid,2020,mar,usa,not_revealed
+shirbit_insurance,finance,small,80000000.0,1000000.0,refused,2020,dec,israel,black_shadow
+uc_san_francisco,academic,medium,,1140000.0,ransom paid,2020,jun,usa,netwalker
+travelex,finance,medium,,2300000.0,ransom paid,2020,jan,united_kingdom,revil
+dnm,government,small,1000000.0,4000000.0,refused,2020,sep,argentina,netwalker
+telecomm,telecoms,medium,,7500000.0,unknown,2020,jul,argentina,revil
+kelectric,telecoms,medium,,7700000.0,refused,2020,sep,pakistan,netwalker
+advantech,tech,medium,,14000000.0,refused,2020,nov,taiwan,conti
+bouygues,industrial,large,,10000000.0,unknown,2020,jan,france,maze
+edp,energy,medium,,10000000.0,unknown,2020,apr,portugal,ragnar_locker
+redcar_cleveland_council,government,small,1000000.0,10000000.0,unknown,2020,feb,united_kingdom,not_revealed
+software_ag,tech,medium,,20000000.0,refused,2020,oct,germany,clop
+foxconn,tech,medium,,34000000.0,refused,2020,dec,mexico,doppelpaymer
+gsms,legal,small,14000000.0,42000000.0,refused,2020,may,usa,revil
+sopra_steria,tech,medium,,50000000.0,unknown,2020,oct,france,ryuk
+cognizant,tech,medium,,70000000.0,unknown,2020,apr,usa,maze
+iss_world,logistics,medium,,75000000.0,unknown,2020,feb,denmark,not_revealed
+one_call_insurance,finance,medium,373000000.0,15000000.0,unknown,2021,may,united_kingdom,darkside
+exagrid,tech,small,69000000.0,2600000.0,ransom paid,2021,may,usa,conti
+bose,tech,medium,,,refused,2021,may,usa,not_revealed
+brenntag,industrial,medium,,4400000.0,ransom paid,2021,may,germany,darkside
+tjr,legal,small,1000000.0,5000000.0,unknown,2021,apr,brazil,revil
+upstox,finance,medium,140000000.0,1200000.0,unknown,2021,apr,india,not_revealed
+quanta_computer,tech,large,,100000000.0,refused,2021,apr,usa,revil
+nba,media & sport,medium,,,unknown,2021,apr,usa,babuk
+pierre_fabre,healthcare,medium,,50000000.0,refused,2021,apr,france,revil
+asteelflash,tech,medium,,24000000.0,refused,2021,apr,france,revil
+pimprichinchwad_,government,small,28000000.0,9000000.0,unknown,2021,mar,india,not_revealed
+cna,finance,medium,,40000000.0,ransom paid,2021,mar,usa,phoenix_locker
+fatface,retail,medium,334000000.0,2000000.0,ransom paid,2021,mar,france,conti
+acer,tech,medium,,50000000.0,unknown,2021,mar,taiwan,revil
+allergy_partners,healthcare,medium,156000000.0,1750000.0,unknown,2021,mar,usa,not_revealed
+shell,energy,large,,,unknown,2021,mar,netherlands,clop
+harris_federation,academic,small,95000000.0,,unknown,2021,mar,united_kingdom,not_revealed
+ecuadors_ministry_of_finance,government,small,1000000.0,,unknown,2021,feb,ecuador,hotarus_corp
+banco_pichincha,finance,medium,,,unknown,2021,feb,ecuador,hotarus_corp
+dutch_research_council,academic,medium,,,refused,2021,feb,netherlands,doppelpaymer
+mnh,healthcare,medium,408000000.0,,unknown,2021,feb,france,ransomexx
+cd_projekt,gaming,medium,,,refused,2021,feb,poland,hellokitty
+kia_motors,automotive,large,,20000000.0,unknown,2021,feb,usa,doppelpaymer
+electrobras_copel,energy,medium,,,unknown,2021,feb,brazil,not_revealed
+toyota,automotive,large,,,unknown,2021,feb,australia,not_revealed
+dairy_farm_group,food & beverage,medium,,30000000.0,unknown,2021,jan,china,revil
+sepa,government,small,1000000.0,800000.0,refused,2021,jan,scotland,nan
+colonial_pipeline,energy,medium,696000000.0,4400000.0,unknown,2021,may,usa,darkside
+jbs,food & beverage,large,,11000000.0,unknown,2021,jun_,multiple_countries,revil
+fujifilm,tech,medium,,,refused,2021,jun_,japan,qbot
+heritage_valley_hcs,healthcare,medium,301000000.0,,unknown,2017,jun,usa,notpetya
+saintgobain,industrial,large,,387000000.0,unknown,2017,jun,france,notpetya
+mondelez_international,food & beverage,large,,150000000.0,unknown,2017,jun,usa,notpetya
+merck,healthcare,large,,670000000.0,unknown,2017,jun,usa,notpetya
+fedex,logistics,large,,400000000.0,unknown,2017,jun,usa,notpetya
+wpp,logistics,medium,,15000000.0,unknown,2017,jun,united_kingdom,notpetya
+dla_piper,legal,medium,,,unknown,2017,jun,united_kingdom,notpetya
+nuance_communications,tech,medium,,90000000.0,unknown,2017,jun,usa,notpetya
+reckitt_benckiser,retail,medium,,130000000.0,unknown,2017,jun,united_kingdom,notpetya
+beiersdorf,retail,medium,,41000000.0,unknown,2017,jun,germany,notpetya
+nhs,healthcare,medium,,92000000.0,unknown,2017,may,united_kingdom,wannacry
+renaultnissan,automotive,medium,,,unknown,2017,may,japan,wannacry
+telefonica,telecoms,medium,581000000.0,,unknown,2017,may,spain,wannacry
+iberdrola,energy,large,,,unknown,2017,may,spain,wannacry
+gas_natural,energy,large,,,unknown,2017,may,spain,wannacry
+petrobras,energy,large,,,unknown,2017,may,brazil,wannacry
+portugal_telecom,telecoms,medium,,,unknown,2017,may,portugal,wannacry
+telenor_hungary,telecoms,medium,,,unknown,2017,may,hungary,wannacry
+cnpc,energy,large,,,unknown,2017,may,china,wannacry
+chinese_universities,academic,medium,,,unknown,2017,may,china,wannacry
+bank_of_china,finance,large,,,unknown,2017,may,china,wannacry
+deutsche_bahn,transport,medium,,,unknown,2017,may,germany,wannacry
+hitachi,tech,large,,,unknown,2017,may,japan,wannacry
+sberbank_,finance,large,,,unknown,2017,may,russia,wannacry
+megafon,telecoms,medium,,,unknown,2017,may,russia,wannacry
+yancheng_pd,government,large,,,unknown,2017,may,china,wannacry
+russian_interior_ministry,government,small,,,unknown,2017,may,russia,wannacry
+russian_railways,government,large,,,unknown,2017,may,russia,wannacry
+russia_central_bank,government,large,,,unknown,2017,may,russia,wannacry
+cj_cgv,media & sport,medium,,,unknown,2017,may,south_korea,wannacry
+dharmais_cancer_hospital,healthcare,small,,,refused,2017,may,indonesia,wannacry
+andhra_pradesh_police,government,small,,,unknown,2017,may,india,wannacry
+wbsedcl,government,small,,,unknown,2017,may,india,wannacry
+ireland_hospitals,healthcare,small,,,unknown,2017,may,ireland,wannacry
+singapore_malls_,retail,small,,,unknown,2017,may,singapore,wannacry
+sandvik,tech,medium,,,refused,2017,may,sweden,wannacry
+brazil_foreign_ministry,government,small,,,unknown,2017,may,brazil,wannacry
+labcorp,healthcare,medium,,,unknown,2018,jul,usa,samsam
+boeing,tech,large,,,unknown,2018,mar,usa,wannacry
+norsk_hydro,industrial,medium,,45000000.0,refused,2019,jun,norway,unknown
+hackensack_meridian_,healthcare,medium,,,ransom paid,2019,dec,usa,unknown
+tribune_publishing,media & sport,medium,983000000.0,,unknown,2019,jan,usa,unknown
+cyrusone,tech,medium,,,unknown,2019,dec,usa,revil
+grays_harbour,healthcare,small,87000000.0,,refused,2019,aug,usa,unknown
+city_of_new_bedford,government,small,,5300000.0,refused,2019,sep,usa,ryuk
+city_of_albany,government,small,,,unknown,2019,apr,usa,unknown
+campbell_county_health,healthcare,small,176000000.0,,unknown,2019,sep,usa,unknown
+arizona_beverages,food & beverage,medium,317000000.0,,unknown,2019,apr,usa,iencrypt
+wyoming_area_school_district,academic,small,35000000.0,38000.0,ransom paid,2019,oct,usa,unknown
+bristol_airport,transport,small,127000000.0,,refused,2018,sep,united_kingdom,unknown
+allscripts,healthcare,medium,,,refused,2018,jan,usa,samsam
+cdot,transport,small,,,refused,2018,feb,usa,samsam
+media_prima,media & sport,small,15000000.0,8700000.0,refused,2018,nov,malaysia,unknown
+arran_brewery,food & beverage,small,5000000.0,13000.0,refused,2018,sep,scotland,unknown
+leominster_psd,academic,small,98000000.0,10000.0,ransom paid,2018,may,usa,unknown
+matsu,government,small,,1400000.0,refused,2018,aug,usa,unknown
+ecmc,healthcare,medium,750000000.0,44000.0,refused,2018,jan,usa,unknown
+ukri,government,medium,,,unknown,2021,jan,united_kingdom,nan
+apex_laboratory,healthcare,small,13000000.0,,unknown,2021,jan,usa,unknown
+amey,misc,medium,,,unknown,2021,jan,united_kingdom,mount_locker
+hackney_council,government,medium,192000000.0,,unknown,2021,jan,united_kingdom,pysa
+northern_territory_govt,government,medium,,,refused,2021,jan,australia,unknown
+omnitrax,logistics,medium,322000000.0,,unknown,2021,jan,usa,conti
+akva,tech,medium,295000000.0,,unknown,2021,jan,norway,unknown
+dassault_falcon_jet,tech,medium,,,unknown,2021,jan,usa,ragnar_locker
+wentworth,misc,small,19000000.0,,unknown,2021,jan,united_kingdom,unknown
+city_of_angers,government,small,,,unknown,2021,jan,france,unknown
+chwapi,healthcare,medium,261000000.0,,unknown,2021,jan,belgium,unknown
+westrock,logistics,medium,,,unknown,2021,jan,usa,unknown
+palfinger,logistics,medium,,,unknown,2021,jan,austria,unknown
+twu,academic,small,16000000.0,,unknown,2021,jan,usa,unknown
+dsc_logistics,logistics,medium,,,unknown,2021,jan,usa,unknown
+crhs,healthcare,small,40000000.0,,unknown,2021,jan,usa,unknown
+serco,logistics,medium,,,unknown,2021,jan,united_kingdom,unknown
+vcsd,academic,small,68000000.0,,unknown,2021,feb,usa,unknown
+afts,finance,small,11000000.0,,unknown,2021,feb,usa,cuba_ransomware
+foxtons_group,logistics,medium,140000000.0,,unknown,2021,feb,united_kingdom,egregor
+sn_,finance,medium,100000000.0,,unknown,2021,feb,usa,egregor
+remax_kelowna,logistics,small,20000000.0,,unknown,2021,feb,canada,conti
+ness_de,tech ,medium,545000000.0,,unknown,2021,feb,israel,ragnar_locker
+daxcôte_dargent_hc,healthcare,small,,,unknown,2021,feb,france,egregor
+cpcc,academic,small,3000000.0,,unknown,2021,feb,usa,unknown
+discount,logistics,medium,217000000.0,,unknown,2021,feb,canada,darkside
+jones_day_law_firm,legal,medium,982000000.0,,refused,2021,feb,usa,clop
+yuba_county,government,medium,180000000.0,,refused,2021,feb,usa,unknown
+ul,misc,medium,,,refused,2021,feb,usa,unknown
+tietoevry,tech,medium,,,unknown,2021,feb,finland,unknown
+stsc,academic,small,1000000.0,,refused,2021,feb,usa,unknown
+staring_college,academic,small,1000000.0,,ransom paid,2021,feb,netherlands,unknown
+prism_hr,logistics,small,63000000.0,,unknown,2021,feb,usa,darkside
+cochise_eye_laser,healthcare,small,4000000.0,,unknown,2021,jan,usa,unknown
+flagstar,finance,medium,,,unknown,2021,jan,usa,clop
+standley_systems,tech,small,31000000.0,,unknown,2021,feb,usa,revil
+sepe,government,small,,,unknown,2021,mar,spain,ryuk
+qualys,tech,medium,363000000.0,,unknown,2021,mar,usa,clop
+oloronsaintemarie,healthcare,medium,106000000.0,50000.0,unknown,2021,mar,france,unknown
+molson_coors,food & beverage,medium,,,unknown,2021,mar,usa,unknown
+buffalo_public_schools,academic,medium,794000000.0,,unknown,2021,mar,usa,unknown
+south_city_college,academic,small,1000000.0,,unknown,2021,mar,united_kingdom,unknown
+cset,academic,small,4000000.0,,unknown,2021,mar,united_kingdom,unknown
+cmat,academic,medium,257000000.0,,unknown,2021,mar,united_kingdom,unknown
+sierra_wireless,tech,medium,616000000.0,,unknown,2021,mar,canada,unknown
+nine_network,media & sport,medium,860000000.0,,unknown,2021,mar,australia,unknown
+university_of_maryland,academic,medium,,,unknown,2021,mar,usa,clop
+university_of_california,academic,medium,807000000.0,,unknown,2021,mar,usa,clop
+midc,government,small,2000000.0,,refused,2021,mar,india,synack
+boggi_milano,retail,medium,211000000.0,,unknown,2021,mar,italy,ragnarok
+coral_glades_high_school,academic,small,1000000.0,40000000.0,refused,2021,apr,usa,conti
+applus,tech,medium,,,unknown,2021,mar,usa,unknown
+home_hardware_stores,retail,medium,986000000.0,,unknown,2021,apr,canada,darkside
+technological_university,academic,small,40000000.0,,unknown,2021,apr,ireland,unknown
+nci,academic,medium,400000000.0,,unknown,2021,apr,ireland,unknown
+haverhill_school,academic,medium,106000000.0,,unknown,2021,apr,usa,unknown
+jbi,retail,small,60000000.0,,unknown,2021,apr,usa,unknown
+city_of_lawrence,government,small,80000000.0,,unknown,2021,apr,usa,unknown
+durham,government,medium,,,unknown,2021,apr,canada,clop
+bakker_logistiek,logistics,medium,580000000.0,,refused,2021,apr,netherlands,unknown
+owner_federal_group,gaming,medium,326000000.0,,refused,2021,apr,australia,unknown
+university_of_portsmouth,academic,medium,340000000.0,,unknown,2021,apr,united_kingdom,unknown
+nbu,government,small,20000000.0,,unknown,2021,apr,slovakia,unknown
+the_dixie_group,retail,medium,374000000.0,,unknown,2021,apr,usa,unknown
+hoya_,healthcare,medium,,,unknown,2021,apr,japan,astro
+gyrodata,tech,medium,,,unknown,2021,apr,usa,unknown
+mpd,transport,medium,545000000.0,,unknown,2021,apr,usa,babuk_locker
+vta,transport,medium,475000000.0,,unknown,2021,apr,usa,unknown
+unitingcare,healthcare,medium,,,unknown,2021,apr,australia,unknown
+merseyrail,transport,medium,391000000.0,,unknown,2021,apr,united_kingdom,lockbit
+aspire,healthcare,small,,,unknown,2021,apr,scotland,conti
+whistler,misc,medium,788000000.0,,unknown,2021,apr,canada,unknown
+presque_isle_pd,government,small,,,unknown,2021,apr,canada,unknown
+swiss_cloud,tech,small,7000000.0,,unknown,2021,apr,switzerland,unknown
+scripps_health,healthcare,medium,,106800000.0,refused,2021,may,usa,unknown
+volue_technology,tech,small,2000000.0,,refused,2021,may,norway,ryuk
+city_of_tulsa,government,medium,800000000.0,,unknown,2021,may,usa,unknown
+yamabiko,tech,medium,,,unknown,2021,may,japan,babuk_
+ireland_hse,healthcare,medium,,20000000.0,refused,2021,may,ireland,conti
+axa_,finance,large,,,unknown,2021,may,multiple_countries,avaddon
+waikato_hospitals,healthcare,medium,400000000.0,,refused,2021,may,new_zealand,unknown
+betenbough,misc,medium,127000000.0,,unknown,2021,may,usa,unknown
+sierra_college,academic,medium,148000000.0,,unknown,2021,may,usa,unknown
+parkmobile,tech,small,20000000.0,,unknown,2021,may,usa,unknown
+steamship_authority,transport,medium,103000000.0,,unknown,2021,jun,usa,unknown
+uf_health,academic,small,46000000.0,,unknown,2021,may,usa,unknown
+st_clair_county,government,small,43000000.0,,unknown,2021,jun,usa,unknown
+iconstituent,tech,small,19000000.0,,unknown,2021,jun,usa,unknown
+linestar,energy,medium,171000000.0,,unknown,2021,jun,usa,xing_team
+adata,tech,medium,274000000.0,,unknown,2021,may,taiwan,ragnar_locker
+skinners_schools,academic,small,0.0,,unknown,2021,jun,united_kingdom,unknown
+edward_don,food & beverage,medium,850000000.0,,unknown,2021,jun,usa,qbot
+sol_oriens,tech,small,8000000.0,,unknown,2021,jun,usa,revil
+invenergy,energy,medium,734000000.0,,unknown,2021,jun,usa,revil
+town_of_freeport,government,medium,127000000.0,10000.0,refused,2021,jun,usa,avaddon
+dmacc,academic,small,,,refused,2021,jun,usa,unknown
+humber_river_hospital,healthcare,small,,,unknown,2021,jun,canada,unknown
+judson_isd,academic,small,,,unknown,2021,jun,usa,unknown
+rba,healthcare,small,22000000.0,,unknown,2021,apr,usa,unknown
+mrwd,government,small,,,refused,2021,jun,usa,unknown
+lucky_star_casino,misc,small,9000000.0,,unknown,2021,jun,usa,unknown
+city_of_liege,government,small,,,unknown,2021,jun,belgium,ryuk
+grupo_fleury,healthcare,medium,686000000.0,,unknown,2021,jun,brazil,revil
+salvation_army,misc,small,,,unknown,2021,jun,united_kingdom,unknown
+kaseya,tech,medium,300000000.0,70000000.0,unknown,2021,jul,usa,revil
+springhill_hospital,healthcare,medium,613000000.0,,unknown,2019,jul,usa,unknown
+campbell_conroy_oneil_,legal,small,14000000.0,,unknown,2021,feb,usa,nan
+saudi_arabian_oil_company,energy,large,,50000000.0,unknown,2021,jul,saudi_arabia,unknown
+accenture,tech,large,,50000000.0,refused,2021,aug,ireland,lockbit
+gigabyte,tech,medium,,,unknown,2021,aug,taiwan,ransomexx
+bangkok_airways_,transport,medium,854000000.0,,refused,2021,aug,thailand,lockbit
+memorial_health_system,healthcare,medium,,,unknown,2021,aug,usa,hive
+quest_diagnostics,healthcare,medium,,,refused,2021,aug,usa,unknown
+new_cooperative,food & beverage,medium,108000000.0,5900000.0,refused,2021,sep,usa,blackmatter
+crystal_valley,food & beverage,medium,259000000.0,,unknown,2021,sep,usa,unknown
+howard_university,academic,medium,861000000.0,,unknown,2021,sep,usa,unknown
+olympus,tech,medium,748000000.0,,unknown,2021,sep,japan,blackmatter
+sandhills_global,media & sport,medium,268000000.0,,unknown,2021,oct,usa,unknown
+medatixx_gmbh_co_kg,healthcare,medium,107000000.0,,unknown,2021,nov,germany,unknown
+mediamarkt,tech,medium,,240000000.0,unknown,2021,nov,netherlands,hive
+diamond_comic_distributors,media & sport,medium,500000000.0,,unknown,2021,nov,usa,unknown
+slatkine_editions,media & sport,small,5000000.0,,ransom paid,2021,nov,switzerland,lockbit_20
+cyberserve,tech,small,,,unknown,2021,nov,israel,pay2key
+uk_labour_party,government,small,,,unknown,2021,nov,united_kingdom,unknown
+spo,logistics,medium,,,unknown,2021,nov,singapore,clop
+ppla_,healthcare,medium,185000000.0,,unknown,2021,oct,usa,unknown
+correos_express,logistics,medium,473000000.0,,unknown,2021,nov,spain,hive
+cmg,media & sport,medium,,,unknown,2021,may,usa,dev0270
+shutterfly,media & sport,medium,,,unknown,2021,dec,usa,conti
+ukg_,tech,medium,,,unknown,2021,dec,usa,unknown
+mcmenamins_breweries,misc,medium,180000000.0,,unknown,2021,dec,usa,conti
+inetum,tech,medium,,,refused,2021,dec,france,blackcat_alphv_noberus
+impresa,media & sport,medium,187000000.0,,refused,2022,jan,portugal,lapus
+new_mexico_government,government,small,,,unknown,2022,jan,usa,unknown
+finalsite,tech,small,10000000.0,,refused,2022,jan,usa,unknown
+rrd_,telecoms,medium,,,unknown,2022,jan,usa,conti
+moncler,retail,medium,,3000000.0,refused,2022,jan,italy,blackcat_alphv
+delta,tech,medium,,15000000.0,unknown,2022,jan,taiwan,conti
+kp_snacks,food & beverage,medium,600000000.0,,unknown,2022,feb,united_kingdom,conti
+morley,misc,medium,170000000.0,,unknown,2021,aug,usa,unknown
+swissport_international,transport,medium,,,unknown,2022,feb,switzerland,blackcat_alphv
+puma,retail,medium,,,unknown,2022,jan,usa,leakbase
+mizuno,retail,medium,,,unknown,2022,feb,usa,unknown
+nfl_san_francisco_46ers,media & sport,medium,575000000.0,,unknown,2022,feb,usa,blackbyte
+denso,transport,large,,,unknown,2022,mar,germany,pandora
+nordex,energy,medium,,,unknown,2022,mar,denmark,conti
+zegna,retail,medium,,,unknown,2021,aug,italy,ransomexx
+ada,healthcare,medium,124000000.0,,unknown,2022,apr,usa,black_basta
+agco,industrial,medium,,,refused,2022,may,usa,black_basta
+lincoln_college,academic,small,27000000.0,100000.0,ransom paid,2021,dec,usa,pysa
+costa_rican_government,government,large,,20000000.0,refused,2022,may,costa_rica,conti
+bank_of_zambia,finance,medium,184000000.0,,refused,2022,may,zambia,hive
+nikkei_,media & sport,medium,,,unknown,2022,may,singapore,unknown
+cccs,healthcare,medium,765000000.0,10000000.0,refused,2022,may,costa_rica,conti_hive
+foxconn,tech,large,,34000000.0,unknown,2022,may,mexico,lockbit
+shoprite,food & beverage,medium,,,unknown,2022,jun,multiple_countries,ransomhouse
+glenn_county_office_of_education,academic,small,18000000.0,400000.0,ransom paid,2022,may,usa,quantum
+diskriter,healthcare,large,,,unknown,2022,jun,usa,hive
+fast_shop,retail,medium,425000000.0,,unknown,2022,jun,brazil,lapsus
+artear,media & sport,medium,377000000.0,,unknown,2022,jun,argentina,hive
+nichirinflex_usa,automotive,small,,,unknown,2022,jun,usa,unknown
+brooks_county,government,small,5000000.0,37000.0,ransom paid,2022,jun,usa,unknown
+yodel,logistics,medium,163000000.0,,unknown,2022,jun,united_kingdom,unknown
+tb_kawashima,industrial,small,34000000.0,,unknown,2022,jun,japan,lockbit
+medical_university_of_innsbruck,academic,medium,628000000.0,,unknown,2022,jun,austria,vice_society
+fitzgibbon_hospital,healthcare,small,54000000.0,,refused,2022,jun,usa,daixin_team
+macmillan,media & sport,medium,,,unknown,2022,jun,usa,unknown
+pfc_,finance,small,16000000.0,,unknown,2022,feb,usa,quantum
+frederick_colorado,government,small,5000000.0,,unknown,2022,jul,usa,lockbit
+knauf,industrial,medium,,,unknown,2022,jun,germany,black_basta
+entrust,tech,medium,800000000.0,,refused,2022,jun,usa,lockbit
+creos_,energy,medium,290000000.0,,unknown,2022,jul,luxembourg,blackcat
+semikron,tech,medium,461000000.0,,unknown,2022,aug,germany,lv
+csic_,government,small,66000000.0,,refused,2022,jul,spain,russian_unknown
+dihk_,government,small,10000000.0,,unknown,2022,aug,germany,unknown
+albanian_government,government,medium,,,unknown,2022,jul,albania,homeland_justice
+judiciary_of_córdoba,government,small,,,unknown,2022,aug,argentina,play
+south_staffordshire_water,misc,small,84000000.0,,refused,2022,aug,united_kingdom,clop
+desfa,energy,medium,265000000.0,,unknown,2022,aug,greece,ragnar_locker_donut_leaks
+sheppard_robson,misc,small,99000000.0,,unknown,2022,jul,united_kingdom,donut_leaks
+sando,industrial,medium,518000000.0,,unknown,2022,jul,multiple_countries,donut_leaks_hive
+chsf_,healthcare,medium,679000000.0,10000000.0,refused,2022,aug,france,lockbit_hypothesis
+iad,government,small,59000000.0,650000.0,refused,2022,aug,dominican_republic,quantum
+brp,automotive,medium,,,refused,2022,aug,canada,ransomexx
+barts_health_nhs_trust,healthcare,large,,,unknown,2023,jun,united_kingdom,alphvblackcat
+investissement_quebec,finance,medium,651000000.0,,unknown,2023,mar,canada,cl0pconti
+lehigh_valley_health_network,healthcare,small,78000000.0,5000000.0,refused,2023,feb,usa,alphvblackcat
+minneapolis_public_schools,academic,medium,622000000.0,1000000.0,refused,2023,feb,usa,medusa
+ring,tech,medium,266000000.0,,unknown,2023,mar,usa,alphvblackcat
+shutterfly,retail,medium,,,unknown,2021,dec,usa,cl0pconti
+city_of_dallas,government,medium,,,unknown,2023,may,usa,royal
+qnap,tech,medium,192000000.0,1000000.0,unknown,2022,sep,singapore,deadbolt
+the_guardian,media & sport,medium,,,unknown,2022,dec,united_kingdom,unknown
+royal_mail,logistics,medium,,80000000.0,refused,2023,jan,united_kingdom,lockbit
+cisco,tech,large,,,unknown,2022,may,usa,yanluowang
+medibank,misc,medium,500000000.0,,refused,2022,oct,australia,unknown
+los_angeles_unified_school_district,academic,medium,,,refused,2022,sep,usa,vice_society
+commonspirit_health,healthcare,large,,,unknown,2022,oct,usa,unknown
+nhs,healthcare,large,,,refused,2017,may,united_kingdom,wannacry
+advanced,tech,medium,427000000.0,,unknown,2022,aug,united_kingdom,lockbit
+st_marys,government,small,,0.0,ransom paid,2022,jul,canada,lockbit
+cmg,media & sport,medium,,,unknown,2021,jun,usa,samsamdev0270
+latitude_financial,finance,medium,773000000.0,,refused,2023,mar,australia,unknown
+seville_city_council,government,medium,500000000.0,2000000.0,refused,2023,sep,spain,unknown
+thermae_2000,misc,small,42000000.0,,refused,2023,sep,netherlands,lockbit
+auckland_transport,government,small,2000000.0,1000000.0,refused,2023,sep,new_zealand,medusa
+geacam,government,small,,0.0,refused,2023,sep,spain,unknown
+mhmc,healthcare,small,11000000.0,,refused,2023,aug,israel,ragnar_locker
+sartrouville_town_hall,government,medium,113000000.0,1000000.0,refused,2023,aug,france,medusa
+cloudnordic,tech,small,5000000.0,,refused,2023,aug,denmark,unknown
+foundation_of_verdeil,academic,small,80000000.0,,refused,2023,aug,switzerland,noescape
+cpas_charleroi,government,medium,207000000.0,,refused,2023,aug,belgium,unknown
+csem,government,small,17000000.0,,refused,2023,aug,canada,lockbit
+tissupath,healthcare,small,7000000.0,,refused,2023,aug,australia,alphvblackcat
+sandf,government,small,13000000.0,,refused,2023,aug,south_africa,snatch
+lff,media & sport,small,9000000.0,1000000.0,refused,2023,jul,latvia,unknown
+cocha,misc,medium,300000000.0,,refused,2023,jul,chile,unknown
+municipality_of_ferrara,government,small,82000000.0,,refused,2023,jul,italy,rhysida
+helix,misc,small,,,refused,2023,jul,russia,unknown
+taubblindendienst,misc,small,,,refused,2023,jul,germany,unknown
+borets_international_ltd,industrial,small,7000000.0,1000000.0,refused,2023,jul,uae,medusa
+lfc,academic,small,5000000.0,,refused,2023,jul,egypt,lockbit
+lower_yukon_school_district,academic,small,77000000.0,0.0,refused,2023,jul,usa,noescape
+comision_nacional_de_valores,government,small,90000000.0,1000000.0,refused,2023,jun,argentina,medusa
+omnipol,industrial,small,5000000.0,,refused,2023,jun,czechia,play
+cro,media & sport,medium,495000000.0,,refused,2023,jun,czechia,unknown
+tech_mahindra,tech,medium,,,refused,2023,jun,india,akira
+lebanon_school_district,academic,small,80000000.0,,refused,2023,jun,usa,unknown
+krishi_bank,finance,small,5000000.0,,refused,2023,jun,bangladesh,alphvblackcat
+city_of_west_jordan,government,medium,250000000.0,,refused,2023,jun,usa,unknown
+azimut_group,finance,medium,,,refused,2023,jun,italy,alphvblackcat
+colorado_dept_of_higher_education,government,small,63000000.0,,refused,2023,jun,usa,unknown
+nstlaw,legal,small,29000000.0,,refused,2023,jun,usa,play
+maxim_markenprodukte,misc,small,5000000.0,,refused,2023,may,germany,unknown
+tulancingo_city_council,government,small,,,refused,2023,may,mexico,unknown
+dragos_inc,tech,medium,158000000.0,,refused,2023,may,usa,unknown
+farmalink,healthcare,small,5000000.0,,refused,2023,may,argentina,lockbit
+bank_syariah_indonesia,finance,medium,,20000000.0,refused,2023,may,indonesia,lockbit
+thomas_hardye_school,academic,small,16000000.0,,refused,2023,may,united_kingdom,unknown
+franklin_county_public_schools,academic,small,14000000.0,,refused,2023,may,usa,unknown
+smdea,government,small,,,refused,2023,may,france,qilin
+chattanooga_state_community_college,academic,medium,486000000.0,,refused,2023,may,usa,snatch
+xplain_ag,tech,small,5000000.0,,refused,2023,may,switzerland,play
+ykk_group,industrial,medium,,,refused,2023,may,japan,lockbit
+voyageurs_du_monde,misc,medium,160000000.0,,refused,2023,may,france,lockbit
+câmara_de_lagoa,government,medium,235000000.0,,refused,2023,may,portugal,unknown
+mayberry_investments,finance,small,17000000.0,,refused,2023,may,jamaica,play
+united_hoster,tech,small,,,refused,2023,may,germany,unknown
+middlesex_county_public_schools,academic,small,24000000.0,,refused,2023,may,usa,akira
+tampa_general_hospital,healthcare,medium,,,refused,2023,may,usa,unknown
+metalnet,tech,small,,,refused,2023,may,netherlands,lockbit
+unico_data,tech,small,16000000.0,,refused,2023,may,switzerland,play
+seal,government,small,53000000.0,,refused,2023,apr,peru,unknown
+orqa,tech,small,7000000.0,,refused,2023,apr,croatia,unknown
+ayuntamiento_de_sils,government,small,,,refused,2023,apr,spain,unknown
+rochester_public_schools,academic,small,16000000.0,,refused,2023,apr,usa,unknown
+murfreesboro_medical_clinic,healthcare,small,17000000.0,,refused,2023,apr,usa,bianlian
+hwl_ebsworth_lawyers,legal,medium,277000000.0,,refused,2023,apr,australia,alphvblackcat
+gary_motykie_md,healthcare,small,5000000.0,3000000.0,refused,2023,apr,usa,unknown
+bernina_international_ag,misc,medium,157000000.0,1000000.0,refused,2023,apr,switzerland,alphvblackcat
+ibv_cie,industrial,small,6000000.0,1000000.0,refused,2023,apr,belgium,unknown
+zbw,academic,medium,130000000.0,,refused,2023,apr,germany,royal
+bishop_luffa_school,academic,small,13000000.0,0.0,refused,2023,mar,united_kingdom,medusa
+aaa,government,medium,516000000.0,,refused,2023,mar,puerto_rico,vice_society
+ferrari,transport,medium,,1000000.0,refused,2023,mar,italy,unknown
+vumacam,misc,small,5000000.0,,refused,2023,mar,south_africa,clop
+hu_usp,healthcare,medium,,,refused,2023,mar,brazil,unknown
+jefferson_county_public_schools,academic,medium,,,refused,2023,mar,usa,unknown
+ngs_super,academic,small,25000000.0,,refused,2023,mar,australia,lorenz
+montgomery_general_hospital,healthcare,small,24000000.0,1000000.0,refused,2023,mar,usa,donut
+evide,tech,small,5000000.0,,refused,2023,mar,northern_ireland,unknown
+kaa,government,medium,110000000.0,5000000.0,refused,2023,mar,kenya,medusa
+gobierno_del_estado_de_yucatán,government,small,,,refused,2023,mar,mexico,alphvblackcat
+akpk,finance,small,24000000.0,,refused,2023,mar,malaysia,alphvblackcat
+matthäi_gruppe,industrial,small,,,refused,2023,mar,germany,blackbasta
+conseil_départemental_du_gard,government,small,7000000.0,0.0,refused,2023,mar,france,unknown
+storopack_inc,industrial,medium,618000000.0,,refused,2023,mar,germany,blackbasta
+munster_technological_university,academic,small,54000000.0,,refused,2023,feb,ireland,alphvblackcat
+srf_limited,industrial,medium,,,refused,2023,feb,india,lockbit
+rice_university,academic,medium,217000000.0,,refused,2023,feb,usa,unknown
+indigo_books_and_music,retail,medium,823000000.0,,refused,2023,feb,canada,unknown
+oregon_city,government,small,40000000.0,,refused,2023,feb,usa,unknown
+washington_county_sheriffs_office,government,small,20000000.0,,refused,2023,feb,usa,lockbit
+ministry_of_commerce_and_industry,government,small,,,refused,2023,feb,kuwait,lockbit
+stadtwerke_karlsruhe,government,medium,343000000.0,,refused,2023,feb,germany,unknown
+group_1001_inc,misc,small,68000000.0,,refused,2023,feb,usa,unknown
+fonasa,government,medium,340000000.0,,refused,2023,feb,chile,alphvblackcat
+gaston_college,academic,medium,336000000.0,,refused,2023,feb,usa,snatch
+mercer_university,academic,medium,211000000.0,,refused,2023,feb,usa,akira
+mcna_dental,healthcare,small,78000000.0,10000000.0,refused,2023,feb,usa,lockbit
+liberty_lines_transit_inc,transport,small,56000000.0,,refused,2023,feb,usa,royal
+bmw_leal_réunion,transport,small,,0.0,refused,2023,feb,france,play
+reddit,tech,medium,510000000.0,5000000.0,refused,2023,feb,usa,alphvblackcat
+gates_corporation,industrial,medium,,,refused,2023,feb,usa,blackbasta
+clear_spring_life_,misc,small,8000000.0,,refused,2023,feb,usa,unknown
+clinica_santa_chiara,healthcare,small,5000000.0,,refused,2023,feb,switzerland,unknown
+le_foyer_namurois,government,small,6000000.0,,refused,2023,feb,belgium,unknown
+the_durango_city_council,government,small,,,refused,2023,jan,spain,unknown
+des_moines_public_schools,academic,medium,458000000.0,,refused,2023,jan,usa,unknown
+riot_games_inc,gaming,medium,,10000000.0,refused,2023,jan,usa,unknown
+okanagan_college,academic,small,69000000.0,,refused,2023,jan,canada,vice_society
+scheppersinstituut_wetteren,academic,small,17000000.0,,refused,2023,jan,belgium,vice_society
+atlantic_general_hospital,healthcare,medium,138000000.0,,refused,2023,jan,usa,unknown
+nantucket_public_schools,academic,small,8000000.0,,refused,2023,jan,usa,unknown
+ultralife_corporation,industrial,medium,103000000.0,,refused,2023,jan,usa,unknown
+basel_stadt_department_of_education,government,medium,,,refused,2023,jan,switzerland,bianlian
+eufh,academic,small,14000000.0,,refused,2023,jan,germany,unknown
+dynamic_networks,tech,small,,,refused,2022,dec,usa,lockbit
+jakks_pacific,retail,medium,796000000.0,5000000.0,refused,2022,dec,usa,alphvblackcat_hive
+2networkit,tech,small,,,refused,2022,dec,canada,cuba
+inforlandia,tech,small,12000000.0,,refused,2022,dec,portugal,royal
+hope_sentamu_learning_trust,academic,small,,18000000.0,refused,2022,dec,united_kingdom,unknown
+mount_saint_mary_college,academic,small,71000000.0,,refused,2022,dec,usa,vice_society
+cincinnati_state,academic,small,45000000.0,,refused,2022,nov,usa,vice_society
+greene_county_tech_school_district,academic,small,6000000.0,,refused,2022,nov,usa,unknown
+thales,tech,medium,,,refused,2022,nov,france,lockbit
+vanuatu_government,government,small,,,refused,2022,nov,vanuatu,ransomhouse
+legal_aid_act,legal,small,26000000.0,,refused,2022,nov,australia,unknown
+city_of_westmount,government,small,15000000.0,,refused,2022,nov,canada,lockbit
+le_département_de_seineetmarne,government,small,,10000000.0,refused,2022,nov,france,unknown
+loffice_hydraulique_de_corse,government,small,,,refused,2022,nov,france,lockbit
+maple_leaf_foods,food & beverage,medium,,,refused,2022,nov,canada,blackbasta
+klinikum_lippe,healthcare,medium,411000000.0,,refused,2022,nov,germany,unknown
+central_bank_of_the_gambia,finance,small,7000000.0,3000000.0,refused,2022,nov,gambia,alphvblackcat
+university_duisburgessen,academic,medium,661000000.0,,refused,2022,nov,germany,vice_society
+xavier_university_of_louisiana,academic,medium,131000000.0,,refused,2022,nov,usa,vice_society
+st_rose_hospital,healthcare,medium,115000000.0,,refused,2022,nov,usa,bianlian
+douglas_county_sheriffs_office,government,small,6000000.0,,refused,2022,oct,usa,unknown
+medstar_mobile_healthcare,healthcare,small,67000000.0,,refused,2022,oct,usa,unknown
+norman_public_schools,academic,medium,114000000.0,1000000.0,refused,2022,oct,usa,hive
+oceanviews_optical,healthcare,small,1000000.0,,refused,2022,oct,usa,unknown
+hôpital_pierre_rouquès_les_bluets,healthcare,small,22000000.0,,refused,2022,oct,france,vice_society
+simex_defence_inc,industrial,small,18000000.0,,refused,2022,oct,canada,alphvblackcat
+pendragon,transport,medium,,60000000.0,refused,2022,oct,united_kingdom,lockbit
+kilvington_grammar_school,academic,small,22000000.0,,refused,2022,oct,australia,lockbit
+personal_paraguay,tech,small,5000000.0,,refused,2022,oct,paraguay,unknown
+cooperative_antonio_vega_granados_rl,finance,small,,,refused,2022,oct,costa_rica,lockbit
+landi_renzo,industrial,medium,228000000.0,,refused,2022,oct,italy,hive
+frontignanla_peyrade_town_hall,government,small,,,refused,2022,oct,france,unknown
+ministry_of_transportation_and_public_works,government,small,,,refused,2022,oct,uruguay,play
+alma,misc,small,26000000.0,,refused,2022,oct,chile,hive
+pbs_kvie,media & sport,small,14000000.0,,refused,2022,oct,usa,lockbit
+afs,healthcare,small,7000000.0,,refused,2022,sep,usa,bianlian
+bardstown,government,small,46000000.0,,refused,2022,sep,usa,unknown
+davenport_community_schools,academic,medium,219000000.0,,refused,2022,sep,usa,karakurt
+idware,tech,small,6000000.0,,refused,2022,sep,netherlands,alphvblackcat
+city_of_caen,government,small,,,refused,2022,sep,france,unknown
+caritas,misc,small,,,refused,2022,sep,germany,unknown
+cna,government,small,6000000.0,,refused,2022,sep,chile,lockbit
+baker_taylor_inc,misc,medium,747000000.0,,refused,2022,aug,usa,unknown
+city_of_wheat_ridge,government,small,15000000.0,5000000.0,refused,2022,aug,usa,unknown
+family_medicine_shady_grove,healthcare,small,,,refused,2022,aug,usa,unknown
+ehpad_les_franches_terres,healthcare,small,,,refused,2022,aug,france,medusalocker
+scad,academic,medium,224000000.0,,refused,2022,aug,usa,avoslocker
+school_district_of_elmbrook,academic,small,65000000.0,,refused,2022,aug,usa,vice_society
+chsf,healthcare,medium,697000000.0,10000000.0,refused,2022,aug,france,lockbit
+7eleven,retail,large,,1000000.0,refused,2022,aug,denmark,unknown
+desfa,energy,medium,222000000.0,,refused,2022,aug,greece,ragnar_locker
+damart,misc,small,75000000.0,2000000.0,refused,2022,aug,france,hive
+caesars_entertainment,media & sport,medium,,15000000.0,ransom paid,2023,sep,usa,scattered_spider
+adsc,healthcare,small,,,ransom paid,2023,jul,canada,8base
+hawaii_community_college,academic,small,,0.0,ransom paid,2023,jun,usa,noescape
+township_of_montclair,government,small,,0.0,ransom paid,2023,jun,usa,unknown
+osg_hengelo,academic,small,14000000.0,,ransom paid,2023,may,netherlands,unknown
+bankcard_usa,finance,small,23000000.0,0.0,ransom paid,2023,may,usa,blackbasta
+knvb,media & sport,small,47000000.0,1000000.0,ransom paid,2023,apr,netherlands,lockbit
+woonkracht10,misc,small,33000000.0,,ransom paid,2023,apr,netherlands,play
+san_bernardino_county_sheriffs_department,government,small,10000000.0,1000000.0,ransom paid,2023,apr,usa,unknown
+buckley_king_lpa,legal,small,17000000.0,0.0,ransom paid,2023,apr,usa,blackbasta
+paul_martins_american_grill,misc,small,91000000.0,,ransom paid,2023,apr,usa,unknown
+shoreline_community_college,academic,small,71000000.0,0.0,ransom paid,2023,mar,usa,royal
+ion_cleared_derivatives,finance,medium,273000000.0,,ransom paid,2023,jan,united_kingdom,lockbit
+kfi_engineers,tech,small,27000000.0,0.0,ransom paid,2022,dec,usa,blackbasta
+csj_technologies_inc,tech,small,1000000.0,,ransom paid,2022,dec,usa,unknown
+dallas_central_appraisal_district,government,small,5000000.0,0.0,ransom paid,2022,nov,usa,royal
+little_rock_school_district,academic,medium,339000000.0,0.0,ransom paid,2022,nov,usa,unknown
+crown_point_community_schools,academic,medium,116000000.0,,ransom paid,2022,nov,usa,unknown
+brb,finance,medium,,1000000.0,ransom paid,2022,oct,brazil,lockbit
+sigmund_software,tech,small,9000000.0,1000000.0,ransom paid,2022,sep,usa,spyhive
+colosseum_dental,healthcare,small,53000000.0,2000000.0,ransom paid,2022,aug,netherlands,lv
+british_library,academic,medium,180000000.0,,refused,2023,oct,united_kingdom,nan
