@@ -43,7 +43,7 @@ The datasets underwent thorough cleaning, executed by team members Anthony LE FR
 Detailed steps were taken to clean and preprocess the data. Specific attention was given to the normalization and transformation of data for analysis readiness. We used the `CLEANING_FUNCTION.py` file (HOMEMADE) to clean this dataset and others.
 
 ## Exploratory Data Analysis (EDA)
-Exploratory Data Analysis was conducted to provide initial insights into the data. It included statistical summaries and visualizations.
+Exploratory Data Analysis was conducted to provide initial insights into the data. It included statistical summaries and visualizations. (check notebooks)
 
 ## Results and Interpretation
 Key findings about the impact and trends of ransomware include:
@@ -63,9 +63,6 @@ The final datasets collected are poorly sourced and seem to be manually updated 
 
 ## Technologies Used
 Tools and technologies employed include Python, Pandas, and other data analysis libraries, along with Tableau for data visualization.
-
-## How to Run the Project
-Instructions for replicating the analysis or exploring the data.
 
 ## Contributors
 - [Anthony LE FRANC](https://fr.linkedin.com/in/anthony-le-franc)
