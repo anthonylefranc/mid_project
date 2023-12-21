@@ -1,14 +1,14 @@
 
 
-# Ransomware over the years: Impacts and Damages on Businesses (2013-2023) and Potential Threats in 2024
+# Ransomware over the years: Impacts and Damages on Businesses (2013-2023)
 
 ![ransomwares](https://github.com/anthonylefranc/mid_project/blob/main/resources/ransomwares.png?raw=true)
 
 ## Overview
-This analysis provides a comprehensive overview of various cyber threats, with a specific focus on ransomware. It delves into the most targeted countries and industries and examines the financial and reputational damages inflicted on these companies. Furthermore, the analysis aims to generate predictive insights for potential threats in 2024.
+This analysis provides a comprehensive overview of various cyber threats, with a specific focus on ransomware. It delves into the most targeted countries and industries and examines the financial and reputational damages inflicted on these companies.
 
 ## Project Description
-This project aims to dissect the landscape of cyber threats, particularly ransomware, to understand its evolution over time and its impact on businesses globally. By analyzing data from multiple datasets, the project seeks to uncover patterns and trends in ransomware attacks, including the most affected sectors and geographical areas. A key aspect of the study is to assess the financial and reputational repercussions on the afflicted companies and to forecast the main threats businesses might face in 2024.
+This project aims to dissect the landscape of cyber threats, particularly ransomware, to understand its evolution over time and its impact on businesses globally. By analyzing data from multiple datasets, the project seeks to uncover patterns and trends in ransomware attacks, including the most affected sectors and geographical areas. 
 
 ## Development of Analysis Questions/Objectives
 The project was initiated with a set of guiding questions focusing on the incidence, nature, and impact of ransomware attacks. Objectives include identifying trends, assessing damage, and predicting future threats.
