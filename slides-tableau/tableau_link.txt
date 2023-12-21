@@ -1,0 +1,3 @@
+tableau_link
+
+https://public.tableau.com/views/ransomware_analysis_V1/Dashboard1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
